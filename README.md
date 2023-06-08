@@ -18,7 +18,7 @@ Both the circuits were simulated on LTSpice and analyzed over the same time peri
 
 > NOTE :
 >
-> - All `inverter PMOS` dimensions are `W = 450n, L = 180n`
+> - All `inverter PMOS` dimensions are `W = 540n, L = 180n`
 > - All `inverter NMOS` dimensions are `W = 180n, L = 180n`
 > - All other `PMOS` and `NMOS` dimensions are `W = 180n, L = 180n`
 
